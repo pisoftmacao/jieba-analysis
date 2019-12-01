@@ -3,17 +3,16 @@
  */
 package com.huaban.analysis.jieba;
 
-import java.io.File;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Paths;
 import java.util.List;
 import java.util.Locale;
 
-import junit.framework.TestCase;
-
 import org.junit.Test;
 
 import com.huaban.analysis.jieba.JiebaSegmenter.SegMode;
+
+import junit.framework.TestCase;
 
 
 /**
